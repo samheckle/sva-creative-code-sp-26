@@ -1,4 +1,4 @@
-# Week 01: 8/28/25
+# Week 01: 1/14/26
 
 ![intro.gif](https://github.com/samheckle/code-toolkit-fa-25/blob/main/images/week_01/intro.gif)
 
@@ -13,8 +13,7 @@ _Source: [Casey Reas, 2010](https://reas.com/p18_s2/)_
 3. Intro to Coding
 4. Break
 5. Tutorial: Drawing with p5.js
-6. In-Class Practice
-7. Assignment
+6. In-Class
 
 ---
 
@@ -167,13 +166,6 @@ background(255);
 
 #### p5.js Glossary
 
-|           |                                                                                                                                      |
-| --------- | ------------------------------------------------------------------------------------------------------------------------------------ |
-| sketch    | the name of the program you are making in p5.js web editor                                                                           |
-| `setup()` | a function that happens before the animation loop and _executes one time_. once it completes, it moves to the next line in the code. |
-
-`setup()`: happens before the animation loop and _executes one time_. once it completes, it moves to the next line in the code.
-
 <table>
 <tbody>
 <tr><td>sketch</td><td>
@@ -187,7 +179,7 @@ the name of the program you are making in p5.js web editor
 
 a function that happens before the animation loop and _executes one time_. once it completes, it moves to the next line in the code.
 
-<img src="https://github.com/samheckle/code-toolkit-fa-25/blob/main/images/week_01/setup.gif" width="400px">
+<img src="https://github.com/samheckle/code-toolkit-fa-25/blob/main/images/week_01/setup.gif" width="600px">
 
 </td></tr>
 <tr><td>
@@ -195,25 +187,28 @@ a function that happens before the animation loop and _executes one time_. once 
 `draw()`</td><td>
 
 is the animation loop, executes with framerate
-<img src="https://github.com/samheckle/code-toolkit-fa-25/blob/main/images/week_01/draw_loop.gif" width="400px">
+
+<img src="https://github.com/samheckle/code-toolkit-fa-25/blob/main/images/week_01/draw_loop.gif" width="600px">
 
 </td></tr>
-</tbody>
-</table>
 
-<summary>  canvas </summary>
+<tr><td>
+
+canvas</td><td>
 
 the area on the screen where the code is executed, similar to an artboard. uses the cartesian coordinate system (x, y).
 
-</details>
-
-![coordinates](https://github.com/samheckle/code-toolkit-fa-25/blob/main/images/week_01/coordinates.png)
+<img src="https://github.com/samheckle/code-toolkit-fa-25/blob/main/images/week_01/coordinates.png" width="600px">
 
 Important to note here is the blue line represents the x-axis, increasing from left to right. The red line represents the y-axis, increasing from top to bottom.
 
 `(0, 0)` starts from the top left corner and increases until the `width` and `height` have been reached. The width and height are determined by the parameters passed in to the `createCanvas()` function located in setup.
 
-#### p5 Functions covered in class
+</td></tr>
+</tbody>
+</table>
+
+#### Some p5 Functions
 
 [rect()](https://p5js.org/reference/p5/rect/)
 
