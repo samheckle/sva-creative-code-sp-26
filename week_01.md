@@ -13,7 +13,7 @@ _Source: [Casey Reas, 2010](https://reas.com/p18_s2/)_
 3. Intro to Coding
 4. Break
 5. Tutorial: Drawing with p5.js
-6. In-Class
+6. [Demos, Videos, Useful Links](#demos)
 
 ---
 
@@ -255,7 +255,17 @@ Challenge:
 
 ## Demos
 
--
+- [class 1 demo](https://editor.p5js.org/samheckle/sketches/wEWlOVFwW)
+
+## Review Videos
+If you struggled with any of the material this week, please review these coding train videos!
+
+- [1.1 - p5.js](https://www.youtube.com/watch?v=yPWkPOfnGsw&list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA&index=2)
+- [1.2 - web editor](https://www.youtube.com/watch?v=MXs1cOlidWs&list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA&index=3)
+- [1.3 - shapes](https://www.youtube.com/watch?v=c3TeLi6Ns1E&list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA&index=4)
+- [1.4 - color](https://www.youtube.com/watch?v=riiJTF5-N7c&list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA&index=5)
+- [1.5 - errors](https://www.youtube.com/watch?v=LuGsp5KeJMM&list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA&index=6)
+- [1.6 - comments](https://www.youtube.com/watch?v=xJcrPJuem5Q&list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA&index=7)
 
 ## Useful Misc Links
 
