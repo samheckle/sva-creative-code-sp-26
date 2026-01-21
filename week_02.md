@@ -184,11 +184,11 @@ rect(50, 10, 30, 30); // right rectangle
 ```
 
 Will give us:  
-![push](https://github.com/samheckle/code-toolkit-fa-25/blob/main/https://github.com/samheckle/code-toolkit-fa-25/blob/main/images/week_02/push.png)
+![push](https://github.com/samheckle/code-toolkit-fa-25/blob/main/images/week_02/push.png)
 
 ## Demos
 
--
+- [class 2 demo](https://editor.p5js.org/samheckle/sketches/4y89tX1yi)
 
 ## Review Videos
 
