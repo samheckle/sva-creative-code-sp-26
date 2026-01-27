@@ -26,11 +26,18 @@ If it is easier to write about your assignment in google doc, figma, ppt that is
    - Any moodboards, figma, miro, google docs
    - Pen and paper
 3. What were things you experimented with?
-   - What experiment put you on the path for your final design? Take screenshots & screen recordings of any visual outputs.
+   - What experiment put you on the path for your final design? Take screenshots & screen recordings of any visual outputs. i find taking a recording and making short gifs of different sections is useful! i use https://ezgif.com/ to convert videos to gifs.
 4. Include any links
    - Citation of AI usage
    - Links to StackOverflow, Youtube Tutorials, p5 reference
    - Any other p5 sketches you might have looked at.
+
+### Examples of good documentation:
+
+1. [Tammy's Final Project](https://www.figma.com/proto/cOfdajBMPp5VAjmjO7ersQ/Final-Project_Tammy?node-id=28-7&t=WEtSUTFqU2Tli3LP-1&scaling=contain&content-scaling=fixed&page-id=0%3A1)
+2. [Yoon-Gi and Yennie's Project 3](https://www.figma.com/proto/qTjtERGbIQMtRVemtmaD8f/Yoongi-Park---Yeeun-Min?node-id=4-130&t=rBtMyOgLmVVFBUvJ-1&scaling=contain&content-scaling=fixed&page-id=0%3A1), might take a second for gifs to load
+
+You don't need a formal presentation (unless it is easier for you), but both examples have good process with both ideation, inspiration, and some code.
 
 ## Lecture: Interaction with Conditionals and Events
 
@@ -162,7 +169,6 @@ Logical operators allow us to use more than one expression at a time.
 | NOT               | `!` if the expression is true, make it false              |
 
 So if we wanted to use more than one comparison expression, we need to determine how their logic connects to the previous expression.
-This is different functions, where we can pass in multiple parameters delineated by a period, eg. `fill(255, 0, 0)`.
 
 ##### `&&`
 
