@@ -9,10 +9,6 @@
 
 ---
 
-## Homework Share
-
-- Share your work & documentation. If there were any parts where you struggled, share those questions and see if your group can find an answer.
-
 ## Repetition and Functions
 
 ### Coding Glossary: Review
