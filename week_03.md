@@ -27,10 +27,9 @@ If it is easier to write about your assignment in google doc, figma, ppt that is
    - Pen and paper
 3. What were things you experimented with?
    - What experiment put you on the path for your final design? Take screenshots & screen recordings of any visual outputs. i find taking a recording and making short gifs of different sections is useful! i use https://ezgif.com/ to convert videos to gifs.
-4. Include any links
-   - Citation of AI usage
-   - Links to StackOverflow, Youtube Tutorials, p5 reference
-   - Any other p5 sketches you might have looked at.
+4. Include resources you reached out to for help:
+   - For StackOverflow, Youtube tutorials, p5 reference, p5 sketches you looked at: a link
+   - For code-generating prompting tools: A formal MLA or APA citation (as per the syllabus) + link to your chat logs
 
 ### Examples of good documentation:
 
