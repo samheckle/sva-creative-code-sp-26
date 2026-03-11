@@ -17,7 +17,8 @@
 Take notes in [this document](https://docs.google.com/document/d/1LeVnSBy5DFiIbKNeu170M_O3tPOwu0949GNqA20Ac9Q/edit?usp=sharing)
 
 - How are you currently using AI? Do you use AI in your artistic processes now?
-- What are the different approaches you might take in using AI in the future (if you will)?- Can technology be biased? Or is it designed that way?
+- What are the different approaches you might take in using AI in the future (if you will)?
+- Can technology be biased? Or is it designed that way?
 - When you were younger, how did you imagine your adult life? What did you imagine yourself doing? Has AI changed that?
 
 ## Review: Questions on _anything_ so far?
