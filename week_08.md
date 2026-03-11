@@ -20,6 +20,17 @@ Take notes in [this document](https://docs.google.com/document/d/1LeVnSBy5DFiIbK
 - What are the different approaches you might take in using AI in the future (if you will)?- Can technology be biased? Or is it designed that way?
 - When you were younger, how did you imagine your adult life? What did you imagine yourself doing? Has AI changed that?
 
+### An Analogy (thank you [@rory](https://x.com/rorys))
+
+Sometimes using the most effecient and fastest tool has a time and a place...
+<img src="https://p.kagi.com/proxy/delivery-person-on-a-electric-bike-on-broadway.jpg?c=N7Pi3QNEaSL6_svD8glSC__wDVyV2V3zvCInmdfWCWK-40QsqR_1nDkQnMTPr53cBKuEuHyK39pUZ9jVclrH7cWgzCHFXUcE4LPMsv0qgvTq8H7WTqxXSmFT8VSz_mJ40RtGujoRq_FPeE6MPuRxrI3pDcajCJXFOJhhwVubLEqErwGvEfF6lXCNouF3WLXhALHKy15pem_9IcY54yBz_Lxqa7nuE5STEOJsTZ2LTBiHpWHYxEnFmbfwCkeStRTo" style="width:300px">
+
+We don't want to make something unnecessarily challenging for us because we have tools at our disposal! We don't need to prove ourselves like cyclists in Tour de France...
+<img src="https://p.kagi.com/proxy/20220724TDF1023-A.S.O.-Charly-Lopez-1-2048x1366.jpg?c=iETRpTZQOV3K8Lzi6jhDE2mCdW9Y3kddNhEcGv3APuoOvkcz1e8C26-6jZf5Kl8wxsZB0eM3741CicIx1cDv1Gaa6VOuvopuX25CUzcL_mN-WoOPkD5p5Pj-L65pmMLLa92ULtkHVVX6yYpPyXwUgZxexaHSsvIptJWCR8G41XE%3D" style="width:300px">
+
+But we need to be transparent about using these tools and making sure we are actually exercising, otherwise why are you here?
+<img src="https://p.kagi.com/proxy/spin_main.jpg?c=bqzFZPkbUk3SKxZ345F1kQj1flyhL3AATty8oi60V7-ZcQZM3rg5e1Emyh_wHhBvxD_NIJX0c9HxBS3wrbD55-waA6Bzx628HjuQmmm4A_i1JU3UAFrPcem2VOf8E-kV" style="width:300px">
+
 ## Review: Questions on _anything_ so far?
 
 Add to [this doc](https://docs.google.com/document/d/1xzrUy0LCrEwE9dHL8iapZ3kWPrcCzaqXOwCUtHTiV1I/edit?usp=sharing)
