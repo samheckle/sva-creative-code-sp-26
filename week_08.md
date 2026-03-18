@@ -5,8 +5,7 @@
 1. Reading Discussion #2
 2. Review
 3. Tutorial: Data Structures Part 1: Arrays
-4. Tutorial: p5.js Sound
-5. [Demos, Videos, Useful Links](#demos)
+4. [Demos, Videos, Useful Links](#demos)
 
 ---
 
@@ -197,27 +196,6 @@ for (let currentPet of pets) {
 ```
 
 This is a special loop _just for arrays_, that is shorthand for assigning a variable to the index of the current iteration.
-
-## Tutorial: p5.js Sound
-
-To use sound in p5, we use the [p5 sound library](https://p5js.org/reference/p5.sound/), which allows us to add, manipulate, and create sound with p5.
-
-### Sources for sound:
-
-- [orchestral sample library](http://virtualplaying.com/virtual-playing-orchestra/)
-- [free music archive](https://freemusicarchive.org/)
-- [freesoundorg](https://freesound.org/)
-- [bbc sound effects](http://bbcsfx.acropolis.org.uk/)
-- [free sound picture](https://www.soundofpicture.com/)
-
-### Sound Project references
-
-- https://teropa.info/loop/#/title
-- https://www.nytimes.com/interactive/2018/09/21/magazine/voyages-travel-sounds-from-the-world.html
-- http://jazz.computer/
-- https://patatap.com/
-- https://youtu.be/HI1raqxrUdk?si=j01yIjgDCCW91PpI
-  - cassie's [sketch](https://editor.p5js.org/cassie/sketches/YZHxZ9ffl) recreating it
 
 ---
 
