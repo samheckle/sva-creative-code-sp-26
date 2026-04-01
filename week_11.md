@@ -142,11 +142,26 @@ We will take notes in [this document](https://docs.google.com/document/d/11t37ad
 
 ## Demos and Videos
 
+- DOM demo [in p5 editor](https://editor.p5js.org/samheckle/sketches/rLkGVYrhd)
+- DOM demo [in p5 full screen](https://editor.p5js.org/samheckle/full/rLkGVYrhd)
+- Code uploaded to github https://github.com/samheckle/sva-sp-26-github-page
+- Code published on https://samheckle.github.io/sva-sp-26-github-page/
+
 ### Resources / Videos
 
 - Allison Parrish [Browser Controls](https://creative-coding.decontextualize.com/browser-controls/)
 - Coding Train [HTML/CSS/DOM Playlist](https://www.youtube.com/watch?v=URSH0QpxKo8&list=PLRqwX-V7Uu6bI1SlcCRfLH79HZrFAtBvX) (videos 8.1-8.16)
 
+#### Projects referenced
+- [Adnose](https://adnanaga.com/Adnose) | [Video presentation](https://vimeo.com/826939103) | [Raspberry Pi News](https://www.raspberrypi.com/news/this-massive-nose-sniffs-things-then-prints-a-description-of-the-smell/)
+- [American Artist](https://americanartist.us/)
+- [max fowler](https://mfowler.info/)
+- [Internet Phone Book](https://internetphonebook.net/index.html)
+
 ### Misc Links
 
 - [Open Processing](https://openprocessing.org/sketch/create) for live collaboration (you and your group would all need an account)
+- [`loadFont()`](https://p5js.org/reference/p5/loadFont/) to load a font from a font file
+- Extra credit:
+    - read a book and post about it in our extra credit thread
+    - do the [bibliomancy exercise](https://web.archive.org/web/20250218222440/https://querent.substack.com/p/bibliomancy-for-the-living-autobiography)
