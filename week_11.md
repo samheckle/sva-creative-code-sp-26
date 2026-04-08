@@ -15,19 +15,19 @@ There will be 3 groups taking notes in [this document](https://docs.google.com/d
 
 Group 1:
 
-    Names are functionally territories. I become a landscape...Language shapes worlds and selves, drawing the territories that we then inhabit. Naming then, is placemaking: as naming identifies a domain of control, it becomes the act of domaining itself.
+> Names are functionally territories. I become a landscape...Language shapes worlds and selves, drawing the territories that we then inhabit. Naming then, is placemaking: as naming identifies a domain of control, it becomes the act of domaining itself.
 
 What digital territories do you inhibit? How did your online persona (username, domain name, other identities you might be referred as) become to be? How is this different from your "birth" name?
 
 Group 2:
 
-    The cloud is no longer just a warehouse. It is a climate model, a forecasting machine. And just as weather was institutionalized mostly for war and profit, memory is now being captured, modeled, and selectively mediated not just by the platforms we see (TikTok, Instagram), but by the cloud providers, ad networks, and analytics firms behind them. These systems sell our attention through targeted advertising, shape daily tools like search, maps, and recommendation feeds, and in some cases extend into defense or surveillance work. All of it happens largely outside our control.
+> The cloud is no longer just a warehouse. It is a climate model, a forecasting machine. And just as weather was institutionalized mostly for war and profit, memory is now being captured, modeled, and selectively mediated not just by the platforms we see (TikTok, Instagram), but by the cloud providers, ad networks, and analytics firms behind them. These systems sell our attention through targeted advertising, shape daily tools like search, maps, and recommendation feeds, and in some cases extend into defense or surveillance work. All of it happens largely outside our control.
 
 How do you see yourself disengaging from these systems? How do you imagine continued use of them going forward?
 
 Group 3:
 
-    To program a television show is to schedule or to broadcast it; to program a computer is to produce a series of stored instructions that supposedly guarantee—and often stand in for—a certain action. One is descriptive, the other prescriptive.
+> To program a television show is to schedule or to broadcast it; to program a computer is to produce a series of stored instructions that supposedly guarantee—and often stand in for—a certain action. One is descriptive, the other prescriptive.
 
 What role does the algorithm play in prescribing labels to you? Does that match the descriptions you have about yourself?
 
@@ -142,11 +142,26 @@ We will take notes in [this document](https://docs.google.com/document/d/11t37ad
 
 ## Demos and Videos
 
+- DOM demo [in p5 editor](https://editor.p5js.org/samheckle/sketches/rLkGVYrhd)
+- DOM demo [in p5 full screen](https://editor.p5js.org/samheckle/full/rLkGVYrhd)
+- Code uploaded to github https://github.com/samheckle/sva-sp-26-github-page
+- Code published on https://samheckle.github.io/sva-sp-26-github-page/
+
 ### Resources / Videos
 
 - Allison Parrish [Browser Controls](https://creative-coding.decontextualize.com/browser-controls/)
 - Coding Train [HTML/CSS/DOM Playlist](https://www.youtube.com/watch?v=URSH0QpxKo8&list=PLRqwX-V7Uu6bI1SlcCRfLH79HZrFAtBvX) (videos 8.1-8.16)
 
+#### Projects referenced
+- [Adnose](https://adnanaga.com/Adnose) | [Video presentation](https://vimeo.com/826939103) | [Raspberry Pi News](https://www.raspberrypi.com/news/this-massive-nose-sniffs-things-then-prints-a-description-of-the-smell/)
+- [American Artist](https://americanartist.us/)
+- [max fowler](https://mfowler.info/)
+- [Internet Phone Book](https://internetphonebook.net/index.html)
+
 ### Misc Links
 
 - [Open Processing](https://openprocessing.org/sketch/create) for live collaboration (you and your group would all need an account)
+- [`loadFont()`](https://p5js.org/reference/p5/loadFont/) to load a font from a font file
+- Extra credit:
+    - read a book and post about it in our extra credit thread
+    - do the [bibliomancy exercise](https://web.archive.org/web/20250218222440/https://querent.substack.com/p/bibliomancy-for-the-living-autobiography)
