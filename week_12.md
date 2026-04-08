@@ -100,6 +100,9 @@ The first thing we always do when using an external library is open up our `inde
 
 ## Demos
 
+- [webcam](https://editor.p5js.org/samheckle/sketches/HRLx8EfCx) -- remember the option to use your phone!
+- [body pose](https://editor.p5js.org/samheckle/sketches/xEqSo_2uM)
+
 ### Resources / Videos
 
 ### Misc Links
