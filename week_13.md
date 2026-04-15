@@ -20,7 +20,7 @@ You will be completing this activity in pairs and will have about 3 rounds of ea
 - How would you improve this project?
 - Include the answers to the questions of the project you are critiquing as well.
 
-3 minutes: Exchange your papers and annotate their notes on _your_ project
+3 minutes: Exchange your papers and annotate their notes on _your_ project  
 5 minutes (x2): talk with your partner to share notes, suggestions, questions, other feedback
 
 ## Other Areas of Interest
