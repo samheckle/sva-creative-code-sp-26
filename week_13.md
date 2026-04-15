@@ -117,3 +117,4 @@ We must use the `await` keyword in order to ensure that the variable is populate
 ### Resources / Videos
 
 - Coding Train [Data & API Playlist](https://www.youtube.com/watch?v=rJaXOFfwGVw&list=PLRqwX-V7Uu6a-SQiI4RtIwuOrLJGnel0r)
+- Public API List: https://github.com/public-apis/public-apis
