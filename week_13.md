@@ -44,6 +44,7 @@ And analyzing the RGBA values of each pixel:
 Which will create a huge array storing all the pixel data.
 
 | Pixel Index | Pixel on the Grid | RGBA? |
+| --- | --- | --- |
 | `pixels[0]` | P0 | R |
 | `pixels[1]` | P0 | G |
 | `pixels[2]` | P0 | B |
