@@ -114,6 +114,9 @@ We must use the `await` keyword in order to ensure that the variable is populate
 
 ## Demos
 
+- [pixel webcam](https://editor.p5js.org/samheckle/sketches/fQV1OjqRJ)
+- [delay webcam](https://editor.p5js.org/samheckle/sketches/upGBdCuPF)
+
 ### Resources / Videos
 
 - Coding Train [Data & API Playlist](https://www.youtube.com/watch?v=rJaXOFfwGVw&list=PLRqwX-V7Uu6a-SQiI4RtIwuOrLJGnel0r)
